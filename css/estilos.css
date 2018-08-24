@@ -1,0 +1,27 @@
+body{
+	background: cyan;
+}
+
+@font-face{
+	font-family: 'fuente';
+	src: url('../fonts/KaushanScript-Regular.otf');
+}
+h1{
+	font-family: 'fuente';
+
+}
+
+@font-face{
+	font-family: 'AlexBrush-Regular';
+	src: url('../fonts/AlexBrush-Regular.ttf');
+}
+h2{
+	font-family: 'AlexBrush-Regular';
+}
+h3{
+	font-family: 'Indie Flower', cursive;
+}
+img{
+	display: block;
+	margin: 0 auto;
+}
